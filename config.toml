@@ -1,0 +1,4 @@
+baseURL = "https://homedecorgeneser.vercel.app"
+languageCode = "en-us"
+title = "Beauty Home Decor 2021"
+theme = "hugo-theme-minos"
